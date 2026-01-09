@@ -749,3 +749,5 @@ section{
 .skill-card .python { color: #3776ab; }
 .skill-card .react { color: #61dafb; }
 .skill-card .php { color: #c484ef; }
+.skill-card .node.js { color: #34ce51; }
+.skill-card .vue.js { color: #16a630; }
